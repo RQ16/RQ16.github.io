@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Personal Website
 
 You can use the [editor on GitHub](https://github.com/RQ16/RQ16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-FAC 
 
 ## Header 2
 ### Header 3
